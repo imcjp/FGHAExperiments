@@ -1,11 +1,11 @@
 clear all;clc;close all;
-%% 设置实验数据的范围及实验次数
+%% Setting up the range of experimental data and the number of experiments
 lx=[-4:4];
 ly=[-4:4];
 tm=100;
 xn=10.^lx;%10^-4 -- 10^4
 yn=10.^ly;%10^-4 -- 10^4
-%% 实验开始
+%% Experiments start
 n=length(xn);
 m=length(yn);
 tm1=zeros(n,m);
@@ -46,7 +46,7 @@ for t=1:tm
     end
 end
 disp('Experiment completed!');
-%% 统计实验结果
+%% Statistical experimental results
 tm1=tm1/tm;
 tm2=tm2/tm;
 diff=diff/tm;
@@ -59,7 +59,7 @@ avgTm1=mean(tm1(:));
 avgTm2=mean(tm2(:));
 ratio=tm2./tm1;
 avgR=avgTm2./avgTm1;
-%% 输出结果
+%% Output results
 for i=1:n
     for j=1:m
         x=xn(i);

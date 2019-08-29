@@ -1,10 +1,13 @@
 clear all;clc;close all;
+%% Setting parameters
 x=0.08;
 yn=0:0.01:10;
 tol=eps;
+%% Experiments start
 n=length(yn);
 mn1=zeros(n,1);
 mn2=zeros(n,1);
+%% Experiments start
 for i=1:n
     y=yn(i);
     m1=fzero(@(m)expectedErrOfAlg1(m,x,y,tol),5);
@@ -16,6 +19,7 @@ for i=1:n
     mn1(i)=m1;
     mn2(i)=m2;
 end
+%% Show results
 figure;
 plot(yn,mn1,'Color',[175,238,238]/255);
 hold on

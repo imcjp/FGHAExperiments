@@ -1,15 +1,16 @@
 clear all;clc;close all
-%% 设置参数
+%% Setting parameters
 rm=5;
 q=1;
 p=1;
 N=1;
-% 对Matlab算法采样的概率，使用该概率的主要原因在于Matlab内置算法运行时间太长。设为1表示对所有Matlab内置算法的调用都运行
+% The main reason for using the probability of sampling the built-in algorithm of Matlab is that Matlab's built-in algorithm runs too long. 
+% Set to 1 to indicate that all calls to Matlab's built-in algorithms are running.
 proOfAdop=0.05;
-%% 实验输入参数
-% 横坐标P的范围
+%% Experimental input parameters
+% Range of parameter P
 Ps=[0:0.01:1];
-% 每个图的参数
+% Parameters of each figure
 lamda0s=[1,3,5];
 etas=[2,4];
 timeByFastAlg=0;
@@ -24,7 +25,7 @@ for i=1:length(etas)
         lamda0=lamda0s(j);
         for t=1:length(Ps)
             P=Ps(t);
-%% 使用论文新提出的快速算法
+%% Using the new algorithm proposed in the paper
             tic
             v1=regionalCoverageByFastAlg(P,eta,rm,q,N,p,lamda0);
             tm=toc;
@@ -32,7 +33,7 @@ for i=1:length(etas)
             res(j,t)=v1;
             disp(sprintf('For fast algorithm, when η is %g, λ is %g and P is %g, the result is %g. Used time is %gms.',eta,lamda0,P,v1,tm*1000));
             nRun=nRun+1;
-%% 使用内置的高斯超几何函数求解方法，该部分算法以proOfAdop的概率采样执行
+%% Using the built-in Gauss hypergeometric function solving method, this part of the algorithm is executed with the probability sampling of proOfAdop
             if rand()<proOfAdop
                 tic
                 v2=regionalCoverageByOrgAlg(P,eta,rm,q,N,p,lamda0);
@@ -48,7 +49,7 @@ for i=1:length(etas)
     createfigure(Ps,res,['η = ' num2str(eta)]);
 end
 disp('Experiment completed!');
-%% 对比
+%% comparison
 expTimeByOrgAlg=timeByOrgAlg*nRun/nCheck;
 rmse=sqrt(rmse/nCheck);
 disp(sprintf('Used time by fast algorithm is %gs.',timeByFastAlg));

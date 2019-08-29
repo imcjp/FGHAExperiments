@@ -1,6 +1,5 @@
 function [r] = expectedErrOfAlg1(m,x,y,tol)
-%ERR1 此处显示有关此函数的摘要
-%   此处显示详细说明
+% Error Function of Algorithm 2 Realized by Theorem 1
 if m<=0
     r=1e+10;
 else
