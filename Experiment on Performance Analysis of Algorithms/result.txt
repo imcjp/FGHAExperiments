@@ -1,0 +1,398 @@
+When x is 0.0001 and y is 0.0001.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 95.6289¦Ìs.
+	Fast algorithm runs 1977.65 times faster than original algorithm.
+When x is 0.0001 and y is 0.001.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 90.4123¦Ìs.
+	Fast algorithm runs 1869.76 times faster than original algorithm.
+When x is 0.0001 and y is 0.01.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 90.5374¦Ìs.
+	Fast algorithm runs 1872.35 times faster than original algorithm.
+When x is 0.0001 and y is 0.1.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 89.9885¦Ìs.
+	Fast algorithm runs 1861 times faster than original algorithm.
+When x is 0.0001 and y is 1.
+	Used time of fast algorithm is 0.0540437¦Ìs.
+	Used time of original algorithm is 90.344¦Ìs.
+	Fast algorithm runs 1671.68 times faster than original algorithm.
+When x is 0.0001 and y is 10.
+	Used time of fast algorithm is 0.0625769¦Ìs.
+	Used time of original algorithm is 90.1364¦Ìs.
+	Fast algorithm runs 1440.41 times faster than original algorithm.
+When x is 0.0001 and y is 100.
+	Used time of fast algorithm is 0.0568881¦Ìs.
+	Used time of original algorithm is 88.4724¦Ìs.
+	Fast algorithm runs 1555.2 times faster than original algorithm.
+When x is 0.0001 and y is 1000.
+	Used time of fast algorithm is 0.0540437¦Ìs.
+	Used time of original algorithm is 91.0153¦Ìs.
+	Fast algorithm runs 1684.11 times faster than original algorithm.
+When x is 0.0001 and y is 10000.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 89.5846¦Ìs.
+	Fast algorithm runs 1499.76 times faster than original algorithm.
+When x is 0.001 and y is 0.0001.
+	Used time of fast algorithm is 0.0455105¦Ìs.
+	Used time of original algorithm is 94.6448¦Ìs.
+	Fast algorithm runs 2079.63 times faster than original algorithm.
+When x is 0.001 and y is 0.001.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 90.3554¦Ìs.
+	Fast algorithm runs 1764.78 times faster than original algorithm.
+When x is 0.001 and y is 0.01.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 90.3127¦Ìs.
+	Fast algorithm runs 1867.71 times faster than original algorithm.
+When x is 0.001 and y is 0.1.
+	Used time of fast algorithm is 0.0540437¦Ìs.
+	Used time of original algorithm is 90.0795¦Ìs.
+	Fast algorithm runs 1666.79 times faster than original algorithm.
+When x is 0.001 and y is 1.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 89.8747¦Ìs.
+	Fast algorithm runs 1755.39 times faster than original algorithm.
+When x is 0.001 and y is 10.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 89.8235¦Ìs.
+	Fast algorithm runs 1503.76 times faster than original algorithm.
+When x is 0.001 and y is 100.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 89.3143¦Ìs.
+	Fast algorithm runs 1495.24 times faster than original algorithm.
+When x is 0.001 and y is 1000.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 89.5362¦Ìs.
+	Fast algorithm runs 1748.78 times faster than original algorithm.
+When x is 0.001 and y is 10000.
+	Used time of fast algorithm is 0.0540437¦Ìs.
+	Used time of original algorithm is 89.5163¦Ìs.
+	Fast algorithm runs 1656.37 times faster than original algorithm.
+When x is 0.01 and y is 0.0001.
+	Used time of fast algorithm is 0.0540437¦Ìs.
+	Used time of original algorithm is 89.1238¦Ìs.
+	Fast algorithm runs 1649.11 times faster than original algorithm.
+When x is 0.01 and y is 0.001.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 95.0714¦Ìs.
+	Fast algorithm runs 1966.12 times faster than original algorithm.
+When x is 0.01 and y is 0.01.
+	Used time of fast algorithm is 0.0455105¦Ìs.
+	Used time of original algorithm is 90.8475¦Ìs.
+	Fast algorithm runs 1996.19 times faster than original algorithm.
+When x is 0.01 and y is 0.1.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 89.9429¦Ìs.
+	Fast algorithm runs 1756.72 times faster than original algorithm.
+When x is 0.01 and y is 1.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 90.0937¦Ìs.
+	Fast algorithm runs 1863.18 times faster than original algorithm.
+When x is 0.01 and y is 10.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 90.1449¦Ìs.
+	Fast algorithm runs 1509.14 times faster than original algorithm.
+When x is 0.01 and y is 100.
+	Used time of fast algorithm is 0.0568881¦Ìs.
+	Used time of original algorithm is 89.6813¦Ìs.
+	Fast algorithm runs 1576.45 times faster than original algorithm.
+When x is 0.01 and y is 1000.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 90.1762¦Ìs.
+	Fast algorithm runs 1761.28 times faster than original algorithm.
+When x is 0.01 and y is 10000.
+	Used time of fast algorithm is 0.0540437¦Ìs.
+	Used time of original algorithm is 89.8576¦Ìs.
+	Fast algorithm runs 1662.68 times faster than original algorithm.
+When x is 0.1 and y is 0.0001.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 90.1961¦Ìs.
+	Fast algorithm runs 1761.67 times faster than original algorithm.
+When x is 0.1 and y is 0.001.
+	Used time of fast algorithm is 0.0540437¦Ìs.
+	Used time of original algorithm is 95.2364¦Ìs.
+	Fast algorithm runs 1762.21 times faster than original algorithm.
+When x is 0.1 and y is 0.01.
+	Used time of fast algorithm is 0.0455105¦Ìs.
+	Used time of original algorithm is 90.6654¦Ìs.
+	Fast algorithm runs 1992.19 times faster than original algorithm.
+When x is 0.1 and y is 0.1.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 89.832¦Ìs.
+	Fast algorithm runs 1857.76 times faster than original algorithm.
+When x is 0.1 and y is 1.
+	Used time of fast algorithm is 0.0540437¦Ìs.
+	Used time of original algorithm is 90.6541¦Ìs.
+	Fast algorithm runs 1677.42 times faster than original algorithm.
+When x is 0.1 and y is 10.
+	Used time of fast algorithm is 0.0625769¦Ìs.
+	Used time of original algorithm is 90.3469¦Ìs.
+	Fast algorithm runs 1443.77 times faster than original algorithm.
+When x is 0.1 and y is 100.
+	Used time of fast algorithm is 0.0568881¦Ìs.
+	Used time of original algorithm is 89.9003¦Ìs.
+	Fast algorithm runs 1580.3 times faster than original algorithm.
+When x is 0.1 and y is 1000.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 90.1563¦Ìs.
+	Fast algorithm runs 1509.33 times faster than original algorithm.
+When x is 0.1 and y is 10000.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 89.7211¦Ìs.
+	Fast algorithm runs 1502.05 times faster than original algorithm.
+When x is 1 and y is 0.0001.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 89.9429¦Ìs.
+	Fast algorithm runs 1860.06 times faster than original algorithm.
+When x is 1 and y is 0.001.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 94.7216¦Ìs.
+	Fast algorithm runs 1958.88 times faster than original algorithm.
+When x is 1 and y is 0.01.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 90.6427¦Ìs.
+	Fast algorithm runs 1874.53 times faster than original algorithm.
+When x is 1 and y is 0.1.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 90.2103¦Ìs.
+	Fast algorithm runs 1865.59 times faster than original algorithm.
+When x is 1 and y is 1.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 93.3676¦Ìs.
+	Fast algorithm runs 1930.88 times faster than original algorithm.
+When x is 1 and y is 10.
+	Used time of fast algorithm is 0.0625769¦Ìs.
+	Used time of original algorithm is 93.1287¦Ìs.
+	Fast algorithm runs 1488.23 times faster than original algorithm.
+When x is 1 and y is 100.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 92.1531¦Ìs.
+	Fast algorithm runs 1542.76 times faster than original algorithm.
+When x is 1 and y is 1000.
+	Used time of fast algorithm is 0.0654213¦Ìs.
+	Used time of original algorithm is 92.3607¦Ìs.
+	Fast algorithm runs 1411.78 times faster than original algorithm.
+When x is 1 and y is 10000.
+	Used time of fast algorithm is 0.0568881¦Ìs.
+	Used time of original algorithm is 93.6577¦Ìs.
+	Fast algorithm runs 1646.35 times faster than original algorithm.
+When x is 10 and y is 0.0001.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 92.8954¦Ìs.
+	Fast algorithm runs 1921.12 times faster than original algorithm.
+When x is 10 and y is 0.001.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 91.5842¦Ìs.
+	Fast algorithm runs 1788.78 times faster than original algorithm.
+When x is 10 and y is 0.01.
+	Used time of fast algorithm is 0.0455105¦Ìs.
+	Used time of original algorithm is 97.8077¦Ìs.
+	Fast algorithm runs 2149.13 times faster than original algorithm.
+When x is 10 and y is 0.1.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 99.668¦Ìs.
+	Fast algorithm runs 2061.18 times faster than original algorithm.
+When x is 10 and y is 1.
+	Used time of fast algorithm is 0.0540437¦Ìs.
+	Used time of original algorithm is 92.6338¦Ìs.
+	Fast algorithm runs 1714.05 times faster than original algorithm.
+When x is 10 and y is 10.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 91.9966¦Ìs.
+	Fast algorithm runs 1540.14 times faster than original algorithm.
+When x is 10 and y is 100.
+	Used time of fast algorithm is 0.0568881¦Ìs.
+	Used time of original algorithm is 92.4631¦Ìs.
+	Fast algorithm runs 1625.35 times faster than original algorithm.
+When x is 10 and y is 1000.
+	Used time of fast algorithm is 0.0568881¦Ìs.
+	Used time of original algorithm is 90.6¦Ìs.
+	Fast algorithm runs 1592.6 times faster than original algorithm.
+When x is 10 and y is 10000.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 90.216¦Ìs.
+	Fast algorithm runs 1510.33 times faster than original algorithm.
+When x is 100 and y is 0.0001.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 90.3781¦Ìs.
+	Fast algorithm runs 1765.22 times faster than original algorithm.
+When x is 100 and y is 0.001.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 88.5947¦Ìs.
+	Fast algorithm runs 1832.18 times faster than original algorithm.
+When x is 100 and y is 0.01.
+	Used time of fast algorithm is 0.0426661¦Ìs.
+	Used time of original algorithm is 96.7894¦Ìs.
+	Fast algorithm runs 2268.53 times faster than original algorithm.
+When x is 100 and y is 0.1.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 91.1774¦Ìs.
+	Fast algorithm runs 1780.83 times faster than original algorithm.
+When x is 100 and y is 1.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 90.5118¦Ìs.
+	Fast algorithm runs 1871.82 times faster than original algorithm.
+When x is 100 and y is 10.
+	Used time of fast algorithm is 0.0568881¦Ìs.
+	Used time of original algorithm is 90.2274¦Ìs.
+	Fast algorithm runs 1586.05 times faster than original algorithm.
+When x is 100 and y is 100.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 89.6784¦Ìs.
+	Fast algorithm runs 1501.33 times faster than original algorithm.
+When x is 100 and y is 1000.
+	Used time of fast algorithm is 0.0568881¦Ìs.
+	Used time of original algorithm is 89.8491¦Ìs.
+	Fast algorithm runs 1579.4 times faster than original algorithm.
+When x is 100 and y is 10000.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 89.6528¦Ìs.
+	Fast algorithm runs 1500.9 times faster than original algorithm.
+When x is 1000 and y is 0.0001.
+	Used time of fast algorithm is 0.0455105¦Ìs.
+	Used time of original algorithm is 89.7552¦Ìs.
+	Fast algorithm runs 1972.19 times faster than original algorithm.
+When x is 1000 and y is 0.001.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 90.1079¦Ìs.
+	Fast algorithm runs 1863.47 times faster than original algorithm.
+When x is 1000 and y is 0.01.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 96.303¦Ìs.
+	Fast algorithm runs 1991.59 times faster than original algorithm.
+When x is 1000 and y is 0.1.
+	Used time of fast algorithm is 0.0455105¦Ìs.
+	Used time of original algorithm is 90.5346¦Ìs.
+	Fast algorithm runs 1989.31 times faster than original algorithm.
+When x is 1000 and y is 1.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 92.1246¦Ìs.
+	Fast algorithm runs 1799.33 times faster than original algorithm.
+When x is 1000 and y is 10.
+	Used time of fast algorithm is 0.0654213¦Ìs.
+	Used time of original algorithm is 91.2201¦Ìs.
+	Fast algorithm runs 1394.35 times faster than original algorithm.
+When x is 1000 and y is 100.
+	Used time of fast algorithm is 0.0625769¦Ìs.
+	Used time of original algorithm is 89.8121¦Ìs.
+	Fast algorithm runs 1435.23 times faster than original algorithm.
+When x is 1000 and y is 1000.
+	Used time of fast algorithm is 0.0597325¦Ìs.
+	Used time of original algorithm is 90.2075¦Ìs.
+	Fast algorithm runs 1510.19 times faster than original algorithm.
+When x is 1000 and y is 10000.
+	Used time of fast algorithm is 0.0625769¦Ìs.
+	Used time of original algorithm is 90.5061¦Ìs.
+	Fast algorithm runs 1446.32 times faster than original algorithm.
+When x is 10000 and y is 0.0001.
+	Used time of fast algorithm is 0.0455105¦Ìs.
+	Used time of original algorithm is 97.1677¦Ìs.
+	Fast algorithm runs 2135.06 times faster than original algorithm.
+When x is 10000 and y is 0.001.
+	Used time of fast algorithm is 0.0625769¦Ìs.
+	Used time of original algorithm is 98.6411¦Ìs.
+	Fast algorithm runs 1576.32 times faster than original algorithm.
+When x is 10000 and y is 0.01.
+	Used time of fast algorithm is 0.0511993¦Ìs.
+	Used time of original algorithm is 97.2502¦Ìs.
+	Fast algorithm runs 1899.44 times faster than original algorithm.
+When x is 10000 and y is 0.1.
+	Used time of fast algorithm is 0.0483549¦Ìs.
+	Used time of original algorithm is 89.8775¦Ìs.
+	Fast algorithm runs 1858.71 times faster than original algorithm.
+When x is 10000 and y is 1.
+	Used time of fast algorithm is 0.0455105¦Ìs.
+	Used time of original algorithm is 90.344¦Ìs.
+	Fast algorithm runs 1985.12 times faster than original algorithm.
+When x is 10000 and y is 10.
+	Used time of fast algorithm is 0.0654213¦Ìs.
+	Used time of original algorithm is 97.6314¦Ìs.
+	Fast algorithm runs 1492.35 times faster than original algorithm.
+When x is 10000 and y is 100.
+	Used time of fast algorithm is 0.0654213¦Ìs.
+	Used time of original algorithm is 91.3936¦Ìs.
+	Fast algorithm runs 1397 times faster than original algorithm.
+When x is 10000 and y is 1000.
+	Used time of fast algorithm is 0.0625769¦Ìs.
+	Used time of original algorithm is 90.8105¦Ìs.
+	Fast algorithm runs 1451.18 times faster than original algorithm.
+When x is 10000 and y is 10000.
+	Used time of fast algorithm is 0.0625769¦Ìs.
+	Used time of original algorithm is 92.5001¦Ìs.
+	Fast algorithm runs 1478.18 times faster than original algorithm.
+When x is 0.0001.
+	Average used time of fast algorithm is 0.0534116¦Ìs.
+	Average used time of original algorithm is 90.68¦Ìs.
+When x is 0.001.
+	Average used time of fast algorithm is 0.0527795¦Ìs.
+	Average used time of original algorithm is 90.3841¦Ìs.
+When x is 0.01.
+	Average used time of fast algorithm is 0.0521474¦Ìs.
+	Average used time of original algorithm is 90.5488¦Ìs.
+When x is 0.1.
+	Average used time of fast algorithm is 0.0546758¦Ìs.
+	Average used time of original algorithm is 90.7454¦Ìs.
+When x is 1.
+	Average used time of fast algorithm is 0.0540437¦Ìs.
+	Average used time of original algorithm is 92.2428¦Ìs.
+When x is 10.
+	Average used time of fast algorithm is 0.0534116¦Ìs.
+	Average used time of original algorithm is 93.3183¦Ìs.
+When x is 100.
+	Average used time of fast algorithm is 0.0527795¦Ìs.
+	Average used time of original algorithm is 90.7621¦Ìs.
+When x is 1000.
+	Average used time of fast algorithm is 0.0543598¦Ìs.
+	Average used time of original algorithm is 91.1746¦Ìs.
+When x is 10000.
+	Average used time of fast algorithm is 0.0565721¦Ìs.
+	Average used time of original algorithm is 93.9574¦Ìs.
+When y is 0.0001.
+	Average used time of fast algorithm is 0.0486709¦Ìs.
+	Average used time of original algorithm is 92.1926¦Ìs.
+When y is 0.001.
+	Average used time of fast algorithm is 0.0511993¦Ìs.
+	Average used time of original algorithm is 92.7472¦Ìs.
+When y is 0.01.
+	Average used time of fast algorithm is 0.0470907¦Ìs.
+	Average used time of original algorithm is 93.4618¦Ìs.
+When y is 0.1.
+	Average used time of fast algorithm is 0.049303¦Ìs.
+	Average used time of original algorithm is 91.2567¦Ìs.
+When y is 1.
+	Average used time of fast algorithm is 0.0505672¦Ìs.
+	Average used time of original algorithm is 91.1054¦Ìs.
+When y is 10.
+	Average used time of fast algorithm is 0.0616288¦Ìs.
+	Average used time of original algorithm is 91.6284¦Ìs.
+When y is 100.
+	Average used time of fast algorithm is 0.0594165¦Ìs.
+	Average used time of original algorithm is 90.3187¦Ìs.
+When y is 1000.
+	Average used time of fast algorithm is 0.0575202¦Ìs.
+	Average used time of original algorithm is 90.5235¦Ìs.
+When y is 10000.
+	Average used time of fast algorithm is 0.0587844¦Ìs.
+	Average used time of original algorithm is 90.5791¦Ìs.
+No failed running of fast algorith!
+Failed running log of original algorith:
+	For x is 10 and y is 0.0001. Original algorithm has failed running.
+	For x is 10 and y is 0.001. Original algorithm has failed running.
+	For x is 100 and y is 0.0001. Original algorithm has failed running.
+	For x is 100 and y is 0.001. Original algorithm has failed running.
+	For x is 100 and y is 0.01. Original algorithm has failed running.
+	For x is 100 and y is 0.1. Original algorithm has failed running.
+	For x is 1000 and y is 0.0001. Original algorithm has failed running.
+	For x is 1000 and y is 0.001. Original algorithm has failed running.
+	For x is 1000 and y is 0.01. Original algorithm has failed running.
+	For x is 1000 and y is 0.1. Original algorithm has failed running.
+	For x is 10000 and y is 0.0001. Original algorithm has failed running.
+	For x is 10000 and y is 0.001. Original algorithm has failed running.
+	For x is 10000 and y is 0.01. Original algorithm has failed running.
+	For x is 10000 and y is 0.1. Original algorithm has failed running.
+Average used time of fast algorithm is 0.0537979¦Ìs.
+Average used time of original algorithm is 91.5348¦Ìs.
+Fast algorithm runs 1701.46 times faster than original algorithm.
+RMSE of two algorithm is 0.000157586.
